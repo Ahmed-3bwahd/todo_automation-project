@@ -21,20 +21,21 @@ The framework validates essential user flows such as login, adding todos, deleti
 ## Project Structure
 
 src
-├── main
-│    └── java
-└── test
-├── java
-│    └── com.qacart.todo
-│         ├── apis
-│         ├── base
-│         ├── config
-│         ├── factory
-│         ├── objects
-│         ├── pages
-│         ├── testcases
-│         └── utils
-└── resources
+
+    ├── main
+        └── java
+    └── test
+        ├── java
+            └── com.qacart.todo
+                ├── apis
+                ├── base
+                ├── config
+                ├── factory
+                ├── objects
+                ├── pages
+                ├── testcases 
+                └── utils
+    └── resources
 
 
 ### Folder Responsibilities
